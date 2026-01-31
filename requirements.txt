@@ -1,0 +1,3 @@
+cd C:\Users\samhi\nexus-hospital-finder
+git checkout main
+notepad requirements.txt
