@@ -2,6 +2,7 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 import json
 import math
+from agents import get_recommendation
 
 app = FastAPI(title="NEXUS Hospital API")
 
@@ -21,6 +22,7 @@ import os
 json_path = 'hospitals_data.json' if os.path.exists('hospitals_data.json') else '../hospitals_data.json'
 
 with open(json_path, 'r') as f:
+    hospitals = json.load(f)
 
 @app.get("/")
 def root():
@@ -82,37 +84,22 @@ def filter_hospitals(bedType: str = None, available: bool = None, emergency: boo
 
 @app.post("/api/chat")
 def chat_recommendation(message: dict):
-    """AI recommendation endpoint (to be called by Toolhouse/Gemini)"""
+    """AI recommendation using multi-agent system"""
     
-    user_message = message.get('message', '').lower()
+    user_message = message.get('message', '')
     
-    # Simple keyword matching (Gemini will make this smarter)
-    if 'chest' in user_message or 'heart' in user_message:
-        # Find cardiac hospitals
-        cardiac = [h for h in hospitals if any('cardiac' in s.lower() for s in h.get('specialties', [])) and h['beds']['er'] > 0]
-        if cardiac:
-            best = max(cardiac, key=lambda x: x['availableBeds'])
-            return {
-                "recommendation": best,
-                "reason": f"Recommended for cardiac symptoms. {best['beds']['er']} ER beds available."
-            }
-    
-    elif 'child' in user_message or 'kid' in user_message or 'baby' in user_message:
-        # Find pediatric hospitals
-        pediatric = [h for h in hospitals if h['beds']['pediatric'] > 0]
-        if pediatric:
-            best = max(pediatric, key=lambda x: x['beds']['pediatric'])
-            return {
-                "recommendation": best,
-                "reason": f"Recommended for pediatric care. {best['beds']['pediatric']} pediatric beds available."
-            }
-    
-    # Default: hospital with most beds
-    best = max(hospitals, key=lambda x: x['availableBeds'])
-    return {
-        "recommendation": best,
-        "reason": f"Hospital with most availability: {best['availableBeds']} beds."
-    }
+    try:
+        # Use the multi-agent system!
+        result = get_recommendation(user_message)
+        return result
+    except Exception as e:
+        # Fallback to simple logic if agents fail
+        return {
+            "error": str(e),
+            "hospital": {},
+            "reasoning": "Agent system unavailable",
+            "urgency": "unknown"
+        }
 
 @app.get("/api/stats")
 def get_stats():
