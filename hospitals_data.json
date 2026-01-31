@@ -1,50 +1,50 @@
 [
   {
     "id": 1,
-    "name": "ST ROSE HOSPITAL",
-    "address": "27200 CALAROGA AVE",
-    "city": "HAYWARD",
-    "state": "CA",
-    "zip": "94545",
-    "phone": "(510) 782-6200",
-    "lat": 34.09479215933565,
-    "lng": -117.49790680473996,
+    "name": "PROVIDENCE ALASKA MEDICAL CENTER",
+    "address": "3200 PROVIDENCE DRIVE",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "zip": "99508",
+    "phone": "(907) 562-2211",
+    "lat": 28.819268211633755,
+    "lng": -106.03358613498956,
     "beds": {
-      "er": 0,
-      "icu": 0,
-      "maternity": 6,
-      "pediatric": 5
+      "er": 9,
+      "icu": 1,
+      "maternity": 2,
+      "pediatric": 0
     },
-    "totalBeds": 336,
-    "availableBeds": 11,
-    "waitTime": 42,
+    "totalBeds": 182,
+    "availableBeds": 12,
+    "waitTime": 95,
     "specialties": [
-      "General Medicine"
+      "Emergency Services"
     ],
-    "rating": 1,
-    "emergency_services": false,
+    "rating": 3,
+    "emergency_services": true,
     "hospital_type": "Acute Care Hospitals",
     "isOpen24Hours": true
   },
   {
     "id": 2,
-    "name": "PROVIDENCE ST JOSEPH HOSPITAL",
-    "address": "2700 DOLBEER ST",
-    "city": "EUREKA",
-    "state": "CA",
-    "zip": "95501",
-    "phone": "(707) 445-8121",
-    "lat": 33.26763650934097,
-    "lng": -117.9030057104498,
+    "name": "MAT-SU REGIONAL MEDICAL CENTER",
+    "address": "2500 SOUTH WOODWORTH LOOP",
+    "city": "PALMER",
+    "state": "AK",
+    "zip": "99645",
+    "phone": "(907) 861-6000",
+    "lat": 31.849823041168644,
+    "lng": -93.0341089633667,
     "beds": {
-      "er": 9,
-      "icu": 0,
-      "maternity": 3,
-      "pediatric": 4
+      "er": 0,
+      "icu": 3,
+      "maternity": 0,
+      "pediatric": 2
     },
-    "totalBeds": 255,
-    "availableBeds": 16,
-    "waitTime": 65,
+    "totalBeds": 211,
+    "availableBeds": 5,
+    "waitTime": 61,
     "specialties": [
       "Emergency Services"
     ],
@@ -55,158 +55,266 @@
   },
   {
     "id": 3,
-    "name": "PENINSULA MEDICAL CENTER",
-    "address": "1501 TROUSDALE DRIVE",
-    "city": "BURLINGAME",
-    "state": "CA",
-    "zip": "94010",
-    "phone": "(650) 696-5400",
-    "lat": 33.87602358140554,
-    "lng": -118.74607229226731,
+    "name": "SOUTHEAST HEALTH MEDICAL CENTER",
+    "address": "1108 ROSS CLARK CIRCLE",
+    "city": "DOTHAN",
+    "state": "AL",
+    "zip": "36301",
+    "phone": "(334) 793-8701",
+    "lat": 35.624172562980064,
+    "lng": -111.675233283536,
     "beds": {
-      "er": 2,
-      "icu": 0,
-      "maternity": 3,
-      "pediatric": 6
+      "er": 9,
+      "icu": 1,
+      "maternity": 5,
+      "pediatric": 5
     },
-    "totalBeds": 346,
-    "availableBeds": 11,
-    "waitTime": 49,
+    "totalBeds": 272,
+    "availableBeds": 20,
+    "waitTime": 160,
     "specialties": [
       "Emergency Services"
     ],
-    "rating": 5,
+    "rating": 4,
     "emergency_services": true,
     "hospital_type": "Acute Care Hospitals",
     "isOpen24Hours": true
   },
   {
     "id": 4,
-    "name": "CALIFORNIA PACIFIC MEDICAL CTR-DAVIES CAMPUS HOSP",
-    "address": "601 DUBOCE AVENUE",
-    "city": "SAN FRANCISCO",
-    "state": "CA",
-    "zip": "94117",
-    "phone": "(415) 600-6000",
-    "lat": 34.39572467535919,
-    "lng": -118.29438050993025,
+    "name": "MARSHALL MEDICAL CENTERS",
+    "address": "2505 U S HIGHWAY 431 NORTH",
+    "city": "BOAZ",
+    "state": "AL",
+    "zip": "35957",
+    "phone": "(256) 593-8310",
+    "lat": 29.699099343785292,
+    "lng": -105.62367065337904,
     "beds": {
-      "er": 6,
-      "icu": 5,
-      "maternity": 0,
-      "pediatric": 0
+      "er": 0,
+      "icu": 3,
+      "maternity": 3,
+      "pediatric": 6
     },
-    "totalBeds": 180,
-    "availableBeds": 11,
-    "waitTime": 100,
+    "totalBeds": 173,
+    "availableBeds": 12,
+    "waitTime": 160,
     "specialties": [
-      "General Medicine"
+      "Emergency Services"
     ],
     "rating": 3,
-    "emergency_services": false,
+    "emergency_services": true,
     "hospital_type": "Acute Care Hospitals",
     "isOpen24Hours": true
   },
   {
     "id": 5,
-    "name": "PROVIDENCE QUEEN OF THE VALLEY MEDICAL CENTER",
-    "address": "1000 TRANCAS ST",
-    "city": "NAPA",
-    "state": "CA",
-    "zip": "94558",
-    "phone": "(707) 252-4411",
-    "lat": 34.2666234910158,
-    "lng": -119.15103021219049,
+    "name": "SILOAM SPRINGS REGIONAL HOSPITAL",
+    "address": "603 NORTH PROGRESS AVENUE",
+    "city": "SILOAM SPRINGS",
+    "state": "AR",
+    "zip": "72761",
+    "phone": "(479) 524-4141",
+    "lat": 41.06673750391353,
+    "lng": -103.09984693314085,
     "beds": {
-      "er": 9,
-      "icu": 4,
-      "maternity": 0,
-      "pediatric": 2
+      "er": 1,
+      "icu": 0,
+      "maternity": 5,
+      "pediatric": 0
     },
-    "totalBeds": 274,
-    "availableBeds": 15,
-    "waitTime": 64,
+    "totalBeds": 195,
+    "availableBeds": 6,
+    "waitTime": 55,
     "specialties": [
       "Emergency Services"
     ],
-    "rating": 4,
+    "rating": 3,
     "emergency_services": true,
     "hospital_type": "Acute Care Hospitals",
     "isOpen24Hours": true
   },
   {
     "id": 6,
-    "name": "ADVENTIST HEALTH ST HELENA",
-    "address": "10 WOODLAND ROAD",
-    "city": "SAINT HELENA",
-    "state": "CA",
-    "zip": "94574",
-    "phone": "(707) 963-3611",
-    "lat": 35.01776327025629,
-    "lng": -117.49547925940749,
+    "name": "JOHNSON REGIONAL MEDICAL CENTER",
+    "address": "1100 EAST POPLAR STREET",
+    "city": "CLARKSVILLE",
+    "state": "AR",
+    "zip": "72830",
+    "phone": "(479) 754-5454",
+    "lat": 46.1898726764222,
+    "lng": -80.40293691452742,
     "beds": {
-      "er": 2,
+      "er": 10,
       "icu": 5,
-      "maternity": 4,
-      "pediatric": 0
+      "maternity": 2,
+      "pediatric": 1
     },
-    "totalBeds": 338,
-    "availableBeds": 11,
-    "waitTime": 15,
+    "totalBeds": 238,
+    "availableBeds": 18,
+    "waitTime": 152,
     "specialties": [
-      "General Medicine"
+      "Emergency Services"
     ],
-    "rating": 4,
-    "emergency_services": false,
+    "rating": 3,
+    "emergency_services": true,
     "hospital_type": "Acute Care Hospitals",
     "isOpen24Hours": true
   },
   {
     "id": 7,
-    "name": "SUTTER AMADOR HOSPITAL",
-    "address": "200 MISSION BLVD",
-    "city": "JACKSON",
-    "state": "CA",
-    "zip": "95642",
-    "phone": "(209) 223-7500",
-    "lat": 33.52632553620138,
-    "lng": -118.48679199317466,
+    "name": "LBJ TROPICAL MEDICAL CENTER",
+    "address": "FAGAALU VILLAGE, P O BOX LBJ",
+    "city": "PAGO PAGO",
+    "state": "AS",
+    "zip": "96799",
+    "phone": "(684) 633-4590",
+    "lat": 45.25675624653637,
+    "lng": -103.19646738989908,
     "beds": {
-      "er": 7,
-      "icu": 1,
-      "maternity": 4,
-      "pediatric": 3
+      "er": 6,
+      "icu": 4,
+      "maternity": 5,
+      "pediatric": 6
     },
-    "totalBeds": 151,
-    "availableBeds": 15,
-    "waitTime": 178,
+    "totalBeds": 395,
+    "availableBeds": 21,
+    "waitTime": 41,
     "specialties": [
       "Emergency Services"
     ],
-    "rating": 4,
+    "rating": 0,
     "emergency_services": true,
     "hospital_type": "Acute Care Hospitals",
     "isOpen24Hours": true
   },
   {
     "id": 8,
-    "name": "MERCY GENERAL HOSPITAL",
-    "address": "4001 J ST",
-    "city": "SACRAMENTO",
-    "state": "CA",
-    "zip": "95819",
-    "phone": "(916) 453-4453",
-    "lat": 35.050263480556765,
-    "lng": -117.92151493531003,
+    "name": "BANNER - UNIVERSITY MEDICAL CENTER PHOENIX",
+    "address": "1111 EAST MCDOWELL ROAD",
+    "city": "PHOENIX",
+    "state": "AZ",
+    "zip": "85006",
+    "phone": "(602) 839-2000",
+    "lat": 46.730153875348265,
+    "lng": -88.87128541737403,
     "beds": {
-      "er": 6,
-      "icu": 0,
-      "maternity": 5,
+      "er": 5,
+      "icu": 5,
+      "maternity": 2,
+      "pediatric": 3
+    },
+    "totalBeds": 373,
+    "availableBeds": 15,
+    "waitTime": 138,
+    "specialties": [
+      "Emergency Services"
+    ],
+    "rating": 3,
+    "emergency_services": true,
+    "hospital_type": "Acute Care Hospitals",
+    "isOpen24Hours": true
+  },
+  {
+    "id": 9,
+    "name": "TUCSON MEDICAL CENTER",
+    "address": "5301 EAST GRANT ROAD",
+    "city": "TUCSON",
+    "state": "AZ",
+    "zip": "85712",
+    "phone": "(520) 324-1399",
+    "lat": 37.52480294447587,
+    "lng": -83.23385411250601,
+    "beds": {
+      "er": 7,
+      "icu": 4,
+      "maternity": 4,
+      "pediatric": 8
+    },
+    "totalBeds": 286,
+    "availableBeds": 23,
+    "waitTime": 125,
+    "specialties": [
+      "Emergency Services"
+    ],
+    "rating": 2,
+    "emergency_services": true,
+    "hospital_type": "Acute Care Hospitals",
+    "isOpen24Hours": true
+  },
+  {
+    "id": 10,
+    "name": "ST ROSE HOSPITAL",
+    "address": "27200 CALAROGA AVE",
+    "city": "HAYWARD",
+    "state": "CA",
+    "zip": "94545",
+    "phone": "(510) 782-6200",
+    "lat": 34.68973975394944,
+    "lng": -90.32457665391648,
+    "beds": {
+      "er": 0,
+      "icu": 3,
+      "maternity": 0,
       "pediatric": 6
     },
-    "totalBeds": 366,
-    "availableBeds": 17,
-    "waitTime": 15,
+    "totalBeds": 114,
+    "availableBeds": 9,
+    "waitTime": 152,
+    "specialties": [
+      "General Medicine"
+    ],
+    "rating": 1,
+    "emergency_services": false,
+    "hospital_type": "Acute Care Hospitals",
+    "isOpen24Hours": true
+  },
+  {
+    "id": 11,
+    "name": "PROVIDENCE ST JOSEPH HOSPITAL",
+    "address": "2700 DOLBEER ST",
+    "city": "EUREKA",
+    "state": "CA",
+    "zip": "95501",
+    "phone": "(707) 445-8121",
+    "lat": 29.173300765200437,
+    "lng": -98.32930021393298,
+    "beds": {
+      "er": 2,
+      "icu": 4,
+      "maternity": 0,
+      "pediatric": 6
+    },
+    "totalBeds": 311,
+    "availableBeds": 12,
+    "waitTime": 175,
+    "specialties": [
+      "Emergency Services"
+    ],
+    "rating": 3,
+    "emergency_services": true,
+    "hospital_type": "Acute Care Hospitals",
+    "isOpen24Hours": true
+  },
+  {
+    "id": 12,
+    "name": "BANNER NORTH COLORADO MEDICAL CENTER",
+    "address": "1801 16TH ST",
+    "city": "GREELEY",
+    "state": "CO",
+    "zip": "80631",
+    "phone": "(970) 810-4121",
+    "lat": 43.13218753493075,
+    "lng": -90.50660796928973,
+    "beds": {
+      "er": 4,
+      "icu": 4,
+      "maternity": 5,
+      "pediatric": 0
+    },
+    "totalBeds": 231,
+    "availableBeds": 13,
+    "waitTime": 79,
     "specialties": [
       "Emergency Services"
     ],
@@ -216,159 +324,105 @@
     "isOpen24Hours": true
   },
   {
-    "id": 9,
-    "name": "RIVERSIDE COMMUNITY HOSPITAL",
-    "address": "4445 MAGNOLIA AVENUE",
-    "city": "RIVERSIDE",
-    "state": "CA",
-    "zip": "92501",
-    "phone": "(951) 788-3000",
-    "lat": 34.34586049975208,
-    "lng": -118.63684520210921,
-    "beds": {
-      "er": 4,
-      "icu": 2,
-      "maternity": 2,
-      "pediatric": 1
-    },
-    "totalBeds": 338,
-    "availableBeds": 9,
-    "waitTime": 26,
-    "specialties": [
-      "Emergency Services"
-    ],
-    "rating": 3,
-    "emergency_services": true,
-    "hospital_type": "Acute Care Hospitals",
-    "isOpen24Hours": true
-  },
-  {
-    "id": 10,
-    "name": "PARADISE VALLEY HOSPITAL",
-    "address": "2400 EAST 4TH ST",
-    "city": "NATIONAL CITY",
-    "state": "CA",
-    "zip": "91950",
-    "phone": "(619) 470-4321",
-    "lat": 34.43645450719319,
-    "lng": -117.36706810438956,
-    "beds": {
-      "er": 7,
-      "icu": 3,
-      "maternity": 2,
-      "pediatric": 5
-    },
-    "totalBeds": 175,
-    "availableBeds": 17,
-    "waitTime": 166,
-    "specialties": [
-      "Emergency Services"
-    ],
-    "rating": 3,
-    "emergency_services": true,
-    "hospital_type": "Acute Care Hospitals",
-    "isOpen24Hours": true
-  },
-  {
-    "id": 11,
-    "name": "UC SAN DIEGO HEALTH HILLCREST - HILLCREST MED CTR",
-    "address": "200 WEST ARBOR DRIVE",
-    "city": "SAN DIEGO",
-    "state": "CA",
-    "zip": "92103",
-    "phone": "(619) 543-6222",
-    "lat": 34.781156266238064,
-    "lng": -117.4529509054142,
-    "beds": {
-      "er": 8,
-      "icu": 4,
-      "maternity": 5,
-      "pediatric": 3
-    },
-    "totalBeds": 130,
-    "availableBeds": 20,
-    "waitTime": 125,
-    "specialties": [
-      "Emergency Services"
-    ],
-    "rating": 5,
-    "emergency_services": true,
-    "hospital_type": "Acute Care Hospitals",
-    "isOpen24Hours": true
-  },
-  {
-    "id": 12,
-    "name": "GROSSMONT HOSPITAL",
-    "address": "5555 GROSSMONT CENTER DRIVE BOX 58",
-    "city": "LA MESA",
-    "state": "CA",
-    "zip": "91942",
-    "phone": "(619) 465-0711",
-    "lat": 34.820444150445965,
-    "lng": -118.75478888192838,
+    "id": 13,
+    "name": "LONGMONT UNITED HOSPITAL",
+    "address": "1950 MOUNTAIN VIEW AVE",
+    "city": "LONGMONT",
+    "state": "CO",
+    "zip": "80501",
+    "phone": "(303) 651-5111",
+    "lat": 31.39722105000532,
+    "lng": -115.09341821604743,
     "beds": {
       "er": 6,
-      "icu": 4,
-      "maternity": 5,
-      "pediatric": 1
+      "icu": 1,
+      "maternity": 6,
+      "pediatric": 8
     },
-    "totalBeds": 375,
-    "availableBeds": 16,
-    "waitTime": 78,
+    "totalBeds": 274,
+    "availableBeds": 21,
+    "waitTime": 118,
     "specialties": [
       "Emergency Services"
     ],
-    "rating": 3,
-    "emergency_services": true,
-    "hospital_type": "Acute Care Hospitals",
-    "isOpen24Hours": true
-  },
-  {
-    "id": 13,
-    "name": "MAD RIVER COMMUNITY HOSPITAL",
-    "address": "3800 JANES RD",
-    "city": "ARCATA",
-    "state": "CA",
-    "zip": "95521",
-    "phone": "(707) 822-3621",
-    "lat": 34.2659128365767,
-    "lng": -118.32208263204686,
-    "beds": {
-      "er": 3,
-      "icu": 3,
-      "maternity": 5,
-      "pediatric": 1
-    },
-    "totalBeds": 184,
-    "availableBeds": 12,
-    "waitTime": 81,
-    "specialties": [
-      "Emergency Services"
-    ],
-    "rating": 3,
+    "rating": 4,
     "emergency_services": true,
     "hospital_type": "Acute Care Hospitals",
     "isOpen24Hours": true
   },
   {
     "id": 14,
-    "name": "OROVILLE HOSPITAL",
-    "address": "2767 OLIVE HIGHWAY",
-    "city": "OROVILLE",
-    "state": "CA",
-    "zip": "95966",
-    "phone": "(530) 533-8500",
-    "lat": 33.23664916615025,
-    "lng": -118.3203944582082,
+    "name": "ST FRANCIS HOSPITAL & MEDICAL CENTER",
+    "address": "114 WOODLAND STREET & 500 BLUE HILLS AVENUE",
+    "city": "HARTFORD",
+    "state": "CT",
+    "zip": "06105",
+    "phone": "(860) 714-5541",
+    "lat": 30.69884145129716,
+    "lng": -90.26694448851461,
     "beds": {
-      "er": 3,
+      "er": 5,
+      "icu": 4,
+      "maternity": 6,
+      "pediatric": 4
+    },
+    "totalBeds": 232,
+    "availableBeds": 19,
+    "waitTime": 91,
+    "specialties": [
+      "Emergency Services"
+    ],
+    "rating": 2,
+    "emergency_services": true,
+    "hospital_type": "Acute Care Hospitals",
+    "isOpen24Hours": true
+  },
+  {
+    "id": 15,
+    "name": "DAY KIMBALL HOSPITAL",
+    "address": "320 POMFRET STREET",
+    "city": "PUTNAM",
+    "state": "CT",
+    "zip": "06260",
+    "phone": "(860) 928-6541",
+    "lat": 44.27040810421671,
+    "lng": -84.6069450517478,
+    "beds": {
+      "er": 1,
       "icu": 2,
       "maternity": 5,
-      "pediatric": 1
+      "pediatric": 4
     },
-    "totalBeds": 108,
-    "availableBeds": 11,
-    "waitTime": 133,
+    "totalBeds": 267,
+    "availableBeds": 12,
+    "waitTime": 174,
+    "specialties": [
+      "Emergency Services"
+    ],
+    "rating": 3,
+    "emergency_services": true,
+    "hospital_type": "Acute Care Hospitals",
+    "isOpen24Hours": true
+  },
+  {
+    "id": 16,
+    "name": "GEORGE WASHINGTON UNIV HOSPITAL",
+    "address": "900 23RD ST NW",
+    "city": "WASHINGTON",
+    "state": "DC",
+    "zip": "20037",
+    "phone": "(202) 716-4605",
+    "lat": 36.18607233432229,
+    "lng": -117.10490546444208,
+    "beds": {
+      "er": 1,
+      "icu": 5,
+      "maternity": 2,
+      "pediatric": 8
+    },
+    "totalBeds": 128,
+    "availableBeds": 16,
+    "waitTime": 113,
     "specialties": [
       "Emergency Services"
     ],
@@ -378,28 +432,2269 @@
     "isOpen24Hours": true
   },
   {
-    "id": 15,
-    "name": "BAKERSFIELD MEMORIAL HOSPITAL",
-    "address": "420 34TH ST",
-    "city": "BAKERSFIELD",
-    "state": "CA",
-    "zip": "93301",
-    "phone": "(661) 327-1792",
-    "lat": 33.584829315026326,
-    "lng": -118.68509765238339,
+    "id": 17,
+    "name": "HOWARD UNIVERSITY HOSPITAL CORP",
+    "address": "2041 GEORGIA AVE NW",
+    "city": "WASHINGTON",
+    "state": "DC",
+    "zip": "20060",
+    "phone": "(202) 745-6100",
+    "lat": 29.10357685398445,
+    "lng": -98.7331557405818,
     "beds": {
-      "er": 9,
-      "icu": 0,
-      "maternity": 6,
+      "er": 4,
+      "icu": 5,
+      "maternity": 5,
       "pediatric": 6
     },
-    "totalBeds": 100,
-    "availableBeds": 21,
-    "waitTime": 106,
+    "totalBeds": 365,
+    "availableBeds": 20,
+    "waitTime": 147,
+    "specialties": [
+      "General Medicine"
+    ],
+    "rating": 1,
+    "emergency_services": false,
+    "hospital_type": "Acute Care Hospitals",
+    "isOpen24Hours": true
+  },
+  {
+    "id": 18,
+    "name": "CHRISTIANA HOSPITAL",
+    "address": "4755 OGLETOWN-STANTON ROAD",
+    "city": "NEWARK",
+    "state": "DE",
+    "zip": "19718",
+    "phone": "(302) 733-3609",
+    "lat": 42.913090940528676,
+    "lng": -101.6745575410946,
+    "beds": {
+      "er": 4,
+      "icu": 1,
+      "maternity": 4,
+      "pediatric": 8
+    },
+    "totalBeds": 116,
+    "availableBeds": 17,
+    "waitTime": 105,
+    "specialties": [
+      "Emergency Services"
+    ],
+    "rating": 4,
+    "emergency_services": true,
+    "hospital_type": "Acute Care Hospitals",
+    "isOpen24Hours": true
+  },
+  {
+    "id": 19,
+    "name": "ST FRANCIS HOSPITAL",
+    "address": "7TH AND CLAYTON STS",
+    "city": "WILMINGTON",
+    "state": "DE",
+    "zip": "19805",
+    "phone": "(302) 421-4100",
+    "lat": 39.72894237219415,
+    "lng": -80.05105467309215,
+    "beds": {
+      "er": 4,
+      "icu": 5,
+      "maternity": 2,
+      "pediatric": 6
+    },
+    "totalBeds": 250,
+    "availableBeds": 17,
+    "waitTime": 126,
+    "specialties": [
+      "Emergency Services"
+    ],
+    "rating": 3,
+    "emergency_services": true,
+    "hospital_type": "Acute Care Hospitals",
+    "isOpen24Hours": true
+  },
+  {
+    "id": 20,
+    "name": "SHANDS JACKSONVILLE",
+    "address": "655 W 8TH ST",
+    "city": "JACKSONVILLE",
+    "state": "FL",
+    "zip": "32209",
+    "phone": "(904) 244-4000",
+    "lat": 37.14597914147246,
+    "lng": -105.89665285089805,
+    "beds": {
+      "er": 4,
+      "icu": 0,
+      "maternity": 5,
+      "pediatric": 6
+    },
+    "totalBeds": 130,
+    "availableBeds": 15,
+    "waitTime": 87,
+    "specialties": [
+      "Emergency Services"
+    ],
+    "rating": 3,
+    "emergency_services": true,
+    "hospital_type": "Acute Care Hospitals",
+    "isOpen24Hours": true
+  },
+  {
+    "id": 21,
+    "name": "BETHESDA HOSPITAL EAST",
+    "address": "2815 S SEACREST BLVD",
+    "city": "BOYNTON BEACH",
+    "state": "FL",
+    "zip": "33435",
+    "phone": "(561) 737-7733",
+    "lat": 28.327722998842475,
+    "lng": -87.24851051536093,
+    "beds": {
+      "er": 0,
+      "icu": 5,
+      "maternity": 5,
+      "pediatric": 1
+    },
+    "totalBeds": 388,
+    "availableBeds": 11,
+    "waitTime": 121,
     "specialties": [
       "Emergency Services"
     ],
     "rating": 2,
+    "emergency_services": true,
+    "hospital_type": "Acute Care Hospitals",
+    "isOpen24Hours": true
+  },
+  {
+    "id": 22,
+    "name": "HAMILTON MEDICAL CENTER",
+    "address": "1200 MEMORIAL DRIVE",
+    "city": "DALTON",
+    "state": "GA",
+    "zip": "30720",
+    "phone": "(706) 272-6105",
+    "lat": 29.273637728785523,
+    "lng": -117.14451496576187,
+    "beds": {
+      "er": 7,
+      "icu": 2,
+      "maternity": 4,
+      "pediatric": 5
+    },
+    "totalBeds": 165,
+    "availableBeds": 18,
+    "waitTime": 99,
+    "specialties": [
+      "General Medicine"
+    ],
+    "rating": 2,
+    "emergency_services": false,
+    "hospital_type": "Acute Care Hospitals",
+    "isOpen24Hours": true
+  },
+  {
+    "id": 23,
+    "name": "UPSON REGIONAL MEDICAL CENTER",
+    "address": "801 W GORDON STREET",
+    "city": "THOMASTON",
+    "state": "GA",
+    "zip": "30286",
+    "phone": "(706) 647-8111",
+    "lat": 33.868565379286665,
+    "lng": -79.69511348446457,
+    "beds": {
+      "er": 10,
+      "icu": 1,
+      "maternity": 4,
+      "pediatric": 2
+    },
+    "totalBeds": 207,
+    "availableBeds": 17,
+    "waitTime": 145,
+    "specialties": [
+      "Emergency Services"
+    ],
+    "rating": 2,
+    "emergency_services": true,
+    "hospital_type": "Acute Care Hospitals",
+    "isOpen24Hours": true
+  },
+  {
+    "id": 24,
+    "name": "GUAM MEMORIAL  HOSPITAL AUTHORITY",
+    "address": "85O GOV CARLOS G CAMACHO ROAD",
+    "city": "TAMUNING",
+    "state": "GU",
+    "zip": "96913",
+    "phone": "(671) 647-2552",
+    "lat": 34.70770468783926,
+    "lng": -82.13437249726395,
+    "beds": {
+      "er": 2,
+      "icu": 0,
+      "maternity": 6,
+      "pediatric": 4
+    },
+    "totalBeds": 269,
+    "availableBeds": 12,
+    "waitTime": 154,
+    "specialties": [
+      "Emergency Services"
+    ],
+    "rating": 2,
+    "emergency_services": true,
+    "hospital_type": "Acute Care Hospitals",
+    "isOpen24Hours": true
+  },
+  {
+    "id": 25,
+    "name": "GUAM REGIONAL MEDICAL CITY",
+    "address": "133 ROUTE 3",
+    "city": "DEDEDO",
+    "state": "GU",
+    "zip": "96929",
+    "phone": "(671) 645-5500",
+    "lat": 34.82417614588674,
+    "lng": -113.28330732129608,
+    "beds": {
+      "er": 0,
+      "icu": 4,
+      "maternity": 6,
+      "pediatric": 5
+    },
+    "totalBeds": 245,
+    "availableBeds": 15,
+    "waitTime": 44,
+    "specialties": [
+      "Emergency Services"
+    ],
+    "rating": 0,
+    "emergency_services": true,
+    "hospital_type": "Acute Care Hospitals",
+    "isOpen24Hours": true
+  },
+  {
+    "id": 26,
+    "name": "THE QUEENS MEDICAL CENTER",
+    "address": "1301 PUNCHBOWL ST",
+    "city": "HONOLULU",
+    "state": "HI",
+    "zip": "96813",
+    "phone": "(808) 538-9011",
+    "lat": 28.43761883741737,
+    "lng": -113.3720186582234,
+    "beds": {
+      "er": 10,
+      "icu": 5,
+      "maternity": 5,
+      "pediatric": 6
+    },
+    "totalBeds": 138,
+    "availableBeds": 26,
+    "waitTime": 111,
+    "specialties": [
+      "Emergency Services"
+    ],
+    "rating": 3,
+    "emergency_services": true,
+    "hospital_type": "Acute Care Hospitals",
+    "isOpen24Hours": true
+  },
+  {
+    "id": 27,
+    "name": "MAUI MEMORIAL MEDICAL CENTER",
+    "address": "221 MAHALANI STREET",
+    "city": "WAILUKU",
+    "state": "HI",
+    "zip": "96793",
+    "phone": "(808) 244-9056",
+    "lat": 36.87815730768257,
+    "lng": -116.99090556441152,
+    "beds": {
+      "er": 10,
+      "icu": 0,
+      "maternity": 1,
+      "pediatric": 1
+    },
+    "totalBeds": 318,
+    "availableBeds": 12,
+    "waitTime": 170,
+    "specialties": [
+      "General Medicine"
+    ],
+    "rating": 3,
+    "emergency_services": false,
+    "hospital_type": "Acute Care Hospitals",
+    "isOpen24Hours": true
+  },
+  {
+    "id": 28,
+    "name": "UNITYPOINT HEALTH - MARSHALLTOWN",
+    "address": "55 UNITYPOINT WAY",
+    "city": "MARSHALLTOWN",
+    "state": "IA",
+    "zip": "50158",
+    "phone": "(641) 754-5151",
+    "lat": 31.18428870327214,
+    "lng": -102.29642863251537,
+    "beds": {
+      "er": 7,
+      "icu": 2,
+      "maternity": 6,
+      "pediatric": 4
+    },
+    "totalBeds": 360,
+    "availableBeds": 19,
+    "waitTime": 90,
+    "specialties": [
+      "Emergency Services"
+    ],
+    "rating": 0,
+    "emergency_services": true,
+    "hospital_type": "Acute Care Hospitals",
+    "isOpen24Hours": true
+  },
+  {
+    "id": 29,
+    "name": "TRINITY MUSCATINE",
+    "address": "1518 MULBERRY AVENUE",
+    "city": "MUSCATINE",
+    "state": "IA",
+    "zip": "52761",
+    "phone": "(563) 264-9100",
+    "lat": 40.88350440089577,
+    "lng": -96.04830544465942,
+    "beds": {
+      "er": 10,
+      "icu": 1,
+      "maternity": 0,
+      "pediatric": 8
+    },
+    "totalBeds": 154,
+    "availableBeds": 19,
+    "waitTime": 146,
+    "specialties": [
+      "Emergency Services"
+    ],
+    "rating": 3,
+    "emergency_services": true,
+    "hospital_type": "Acute Care Hospitals",
+    "isOpen24Hours": true
+  },
+  {
+    "id": 30,
+    "name": "ST LUKES MAGIC VALLEY MEDICAL CENTER",
+    "address": "801 POLE LINE ROAD WEST",
+    "city": "TWIN FALLS",
+    "state": "ID",
+    "zip": "83301",
+    "phone": "(208) 814-1000",
+    "lat": 41.72995444205225,
+    "lng": -81.58663285843649,
+    "beds": {
+      "er": 3,
+      "icu": 2,
+      "maternity": 1,
+      "pediatric": 6
+    },
+    "totalBeds": 298,
+    "availableBeds": 12,
+    "waitTime": 170,
+    "specialties": [
+      "Emergency Services"
+    ],
+    "rating": 5,
+    "emergency_services": true,
+    "hospital_type": "Acute Care Hospitals",
+    "isOpen24Hours": true
+  },
+  {
+    "id": 31,
+    "name": "ST JOSEPH REGIONAL MEDICAL CENTER",
+    "address": "415 SIXTH STREET",
+    "city": "LEWISTON",
+    "state": "ID",
+    "zip": "83501",
+    "phone": "(208) 799-5300",
+    "lat": 37.84375534722243,
+    "lng": -100.03143885084353,
+    "beds": {
+      "er": 10,
+      "icu": 4,
+      "maternity": 4,
+      "pediatric": 8
+    },
+    "totalBeds": 229,
+    "availableBeds": 26,
+    "waitTime": 41,
+    "specialties": [
+      "Emergency Services"
+    ],
+    "rating": 2,
+    "emergency_services": true,
+    "hospital_type": "Acute Care Hospitals",
+    "isOpen24Hours": true
+  },
+  {
+    "id": 32,
+    "name": "GRAHAM HOSPITAL ASSOCIATION",
+    "address": "210 WEST WALNUT STREET",
+    "city": "CANTON",
+    "state": "IL",
+    "zip": "61520",
+    "phone": "(309) 647-5240",
+    "lat": 44.34672869310459,
+    "lng": -94.41070110482646,
+    "beds": {
+      "er": 0,
+      "icu": 3,
+      "maternity": 6,
+      "pediatric": 5
+    },
+    "totalBeds": 166,
+    "availableBeds": 14,
+    "waitTime": 110,
+    "specialties": [
+      "Emergency Services"
+    ],
+    "rating": 2,
+    "emergency_services": true,
+    "hospital_type": "Acute Care Hospitals",
+    "isOpen24Hours": true
+  },
+  {
+    "id": 33,
+    "name": "ALTON MEMORIAL HOSPITAL",
+    "address": "ONE MEMORIAL DRIVE",
+    "city": "ALTON",
+    "state": "IL",
+    "zip": "62002",
+    "phone": "(314) 286-2227",
+    "lat": 31.140233906441754,
+    "lng": -114.50189666441833,
+    "beds": {
+      "er": 6,
+      "icu": 5,
+      "maternity": 4,
+      "pediatric": 2
+    },
+    "totalBeds": 187,
+    "availableBeds": 17,
+    "waitTime": 130,
+    "specialties": [
+      "Emergency Services"
+    ],
+    "rating": 4,
+    "emergency_services": true,
+    "hospital_type": "Acute Care Hospitals",
+    "isOpen24Hours": true
+  },
+  {
+    "id": 34,
+    "name": "JOHNSON MEMORIAL HOSPITAL",
+    "address": "1125 W JEFFERSON ST",
+    "city": "FRANKLIN",
+    "state": "IN",
+    "zip": "46131",
+    "phone": "(317) 736-3300",
+    "lat": 36.20144254337541,
+    "lng": -104.02473632310706,
+    "beds": {
+      "er": 1,
+      "icu": 5,
+      "maternity": 6,
+      "pediatric": 0
+    },
+    "totalBeds": 245,
+    "availableBeds": 12,
+    "waitTime": 119,
+    "specialties": [
+      "Emergency Services"
+    ],
+    "rating": 5,
+    "emergency_services": true,
+    "hospital_type": "Acute Care Hospitals",
+    "isOpen24Hours": true
+  },
+  {
+    "id": 35,
+    "name": "METHODIST HOSPITALS INC",
+    "address": "600 GRANT ST",
+    "city": "GARY",
+    "state": "IN",
+    "zip": "46402",
+    "phone": "(219) 886-4000",
+    "lat": 34.92881430148708,
+    "lng": -98.8044885266304,
+    "beds": {
+      "er": 6,
+      "icu": 2,
+      "maternity": 1,
+      "pediatric": 4
+    },
+    "totalBeds": 280,
+    "availableBeds": 13,
+    "waitTime": 127,
+    "specialties": [
+      "Emergency Services"
+    ],
+    "rating": 1,
+    "emergency_services": true,
+    "hospital_type": "Acute Care Hospitals",
+    "isOpen24Hours": true
+  },
+  {
+    "id": 36,
+    "name": "MERCY HOSPITAL PITTSBURG, INC",
+    "address": "1 MT CARMEL WAY",
+    "city": "PITTSBURG",
+    "state": "KS",
+    "zip": "66762",
+    "phone": "(620) 231-6100",
+    "lat": 41.79210242482381,
+    "lng": -117.92340395153059,
+    "beds": {
+      "er": 6,
+      "icu": 0,
+      "maternity": 6,
+      "pediatric": 7
+    },
+    "totalBeds": 192,
+    "availableBeds": 19,
+    "waitTime": 125,
+    "specialties": [
+      "Emergency Services"
+    ],
+    "rating": 4,
+    "emergency_services": true,
+    "hospital_type": "Acute Care Hospitals",
+    "isOpen24Hours": true
+  },
+  {
+    "id": 37,
+    "name": "SAINT JOHN HOSPITAL",
+    "address": "3500 SOUTH 4TH STREET",
+    "city": "LEAVENWORTH",
+    "state": "KS",
+    "zip": "66048",
+    "phone": "(913) 680-6000",
+    "lat": 36.558820809039645,
+    "lng": -108.42369085448067,
+    "beds": {
+      "er": 0,
+      "icu": 0,
+      "maternity": 1,
+      "pediatric": 8
+    },
+    "totalBeds": 113,
+    "availableBeds": 9,
+    "waitTime": 173,
+    "specialties": [
+      "Emergency Services"
+    ],
+    "rating": 0,
+    "emergency_services": true,
+    "hospital_type": "Acute Care Hospitals",
+    "isOpen24Hours": true
+  },
+  {
+    "id": 38,
+    "name": "ST ELIZABETH FT THOMAS",
+    "address": "85 NORTH GRAND AVENUE",
+    "city": "FORT THOMAS",
+    "state": "KY",
+    "zip": "41075",
+    "phone": "(859) 572-3100",
+    "lat": 36.07396301303568,
+    "lng": -85.93146848578127,
+    "beds": {
+      "er": 1,
+      "icu": 3,
+      "maternity": 4,
+      "pediatric": 6
+    },
+    "totalBeds": 244,
+    "availableBeds": 14,
+    "waitTime": 16,
+    "specialties": [
+      "Emergency Services"
+    ],
+    "rating": 3,
+    "emergency_services": true,
+    "hospital_type": "Acute Care Hospitals",
+    "isOpen24Hours": true
+  },
+  {
+    "id": 39,
+    "name": "WHITESBURG ARH HOSPITAL",
+    "address": "240 HOSPITAL ROAD",
+    "city": "WHITESBURG",
+    "state": "KY",
+    "zip": "41858",
+    "phone": "(606) 633-3500",
+    "lat": 45.47974929423357,
+    "lng": -90.46558813527109,
+    "beds": {
+      "er": 6,
+      "icu": 3,
+      "maternity": 5,
+      "pediatric": 4
+    },
+    "totalBeds": 287,
+    "availableBeds": 18,
+    "waitTime": 27,
+    "specialties": [
+      "Emergency Services"
+    ],
+    "rating": 3,
+    "emergency_services": true,
+    "hospital_type": "Acute Care Hospitals",
+    "isOpen24Hours": true
+  },
+  {
+    "id": 40,
+    "name": "OCHSNER LAFAYETTE GENERAL MEDICAL CENTER",
+    "address": "1214 COOLIDGE AVENUE",
+    "city": "LAFAYETTE",
+    "state": "LA",
+    "zip": "70503",
+    "phone": "(337) 289-7991",
+    "lat": 30.259460319192485,
+    "lng": -105.53771608964499,
+    "beds": {
+      "er": 4,
+      "icu": 3,
+      "maternity": 0,
+      "pediatric": 2
+    },
+    "totalBeds": 396,
+    "availableBeds": 9,
+    "waitTime": 165,
+    "specialties": [
+      "Emergency Services"
+    ],
+    "rating": 3,
+    "emergency_services": true,
+    "hospital_type": "Acute Care Hospitals",
+    "isOpen24Hours": true
+  },
+  {
+    "id": 41,
+    "name": "THIBODAUX REGIONAL MEDICAL CENTER",
+    "address": "602 N ACADIA ROAD",
+    "city": "THIBODAUX",
+    "state": "LA",
+    "zip": "70301",
+    "phone": "(985) 447-5500",
+    "lat": 44.09006184745755,
+    "lng": -85.38276502186898,
+    "beds": {
+      "er": 3,
+      "icu": 3,
+      "maternity": 6,
+      "pediatric": 4
+    },
+    "totalBeds": 358,
+    "availableBeds": 16,
+    "waitTime": 139,
+    "specialties": [
+      "Emergency Services"
+    ],
+    "rating": 3,
+    "emergency_services": true,
+    "hospital_type": "Acute Care Hospitals",
+    "isOpen24Hours": true
+  },
+  {
+    "id": 42,
+    "name": "UMASS MEMORIAL HEALTHALLIANCE HOSPITALS",
+    "address": "60 HOSPITAL ROAD",
+    "city": "LEOMINSTER",
+    "state": "MA",
+    "zip": "01453",
+    "phone": "(978) 466-2000",
+    "lat": 37.257404604009835,
+    "lng": -112.83317532951398,
+    "beds": {
+      "er": 2,
+      "icu": 4,
+      "maternity": 4,
+      "pediatric": 4
+    },
+    "totalBeds": 300,
+    "availableBeds": 14,
+    "waitTime": 169,
+    "specialties": [
+      "Emergency Services"
+    ],
+    "rating": 2,
+    "emergency_services": true,
+    "hospital_type": "Acute Care Hospitals",
+    "isOpen24Hours": true
+  },
+  {
+    "id": 43,
+    "name": "MOUNT AUBURN HOSPITAL",
+    "address": "330 MOUNT AUBURN STREET",
+    "city": "CAMBRIDGE",
+    "state": "MA",
+    "zip": "02138",
+    "phone": "(617) 492-3500",
+    "lat": 40.04080431512166,
+    "lng": -110.32868217944005,
+    "beds": {
+      "er": 6,
+      "icu": 3,
+      "maternity": 5,
+      "pediatric": 8
+    },
+    "totalBeds": 162,
+    "availableBeds": 22,
+    "waitTime": 43,
+    "specialties": [
+      "Emergency Services"
+    ],
+    "rating": 4,
+    "emergency_services": true,
+    "hospital_type": "Acute Care Hospitals",
+    "isOpen24Hours": true
+  },
+  {
+    "id": 44,
+    "name": "MERITUS MEDICAL CENTER",
+    "address": "11116 MEDICAL CAMPUS ROAD",
+    "city": "HAGERSTOWN",
+    "state": "MD",
+    "zip": "21742",
+    "phone": "(240) 313-9500",
+    "lat": 46.4956495645349,
+    "lng": -78.78215476868743,
+    "beds": {
+      "er": 4,
+      "icu": 4,
+      "maternity": 3,
+      "pediatric": 2
+    },
+    "totalBeds": 327,
+    "availableBeds": 13,
+    "waitTime": 30,
+    "specialties": [
+      "Emergency Services"
+    ],
+    "rating": 2,
+    "emergency_services": true,
+    "hospital_type": "Acute Care Hospitals",
+    "isOpen24Hours": true
+  },
+  {
+    "id": 45,
+    "name": "UNIVERSITY OF MARYLAND MEDICAL CENTER",
+    "address": "22 SOUTH  GREENE STREET",
+    "city": "BALTIMORE",
+    "state": "MD",
+    "zip": "21201",
+    "phone": "(410) 328-8667",
+    "lat": 46.73708501747027,
+    "lng": -106.72011043180328,
+    "beds": {
+      "er": 1,
+      "icu": 2,
+      "maternity": 4,
+      "pediatric": 3
+    },
+    "totalBeds": 117,
+    "availableBeds": 10,
+    "waitTime": 164,
+    "specialties": [
+      "Emergency Services"
+    ],
+    "rating": 2,
+    "emergency_services": true,
+    "hospital_type": "Acute Care Hospitals",
+    "isOpen24Hours": true
+  },
+  {
+    "id": 46,
+    "name": "ST JOSEPH HOSPITAL",
+    "address": "360 BROADWAY",
+    "city": "BANGOR",
+    "state": "ME",
+    "zip": "04401",
+    "phone": "(207) 262-1000",
+    "lat": 46.505479824883565,
+    "lng": -81.14842537571872,
+    "beds": {
+      "er": 8,
+      "icu": 0,
+      "maternity": 2,
+      "pediatric": 7
+    },
+    "totalBeds": 245,
+    "availableBeds": 17,
+    "waitTime": 42,
+    "specialties": [
+      "Emergency Services"
+    ],
+    "rating": 3,
+    "emergency_services": true,
+    "hospital_type": "Acute Care Hospitals",
+    "isOpen24Hours": true
+  },
+  {
+    "id": 47,
+    "name": "NORTHERN LIGHT MERCY HOSPITAL",
+    "address": "144 STATE STREET",
+    "city": "PORTLAND",
+    "state": "ME",
+    "zip": "04101",
+    "phone": "(207) 879-3000",
+    "lat": 38.865372373408135,
+    "lng": -85.02745792899492,
+    "beds": {
+      "er": 4,
+      "icu": 0,
+      "maternity": 5,
+      "pediatric": 3
+    },
+    "totalBeds": 388,
+    "availableBeds": 12,
+    "waitTime": 178,
+    "specialties": [
+      "Emergency Services"
+    ],
+    "rating": 3,
+    "emergency_services": true,
+    "hospital_type": "Acute Care Hospitals",
+    "isOpen24Hours": true
+  },
+  {
+    "id": 48,
+    "name": "ST JOE MERCY HOSPITAL SYSTEM LIVONIA",
+    "address": "36475 FIVE MILE ROAD",
+    "city": "LIVONIA",
+    "state": "MI",
+    "zip": "48154",
+    "phone": "(734) 655-4800",
+    "lat": 42.05021854127776,
+    "lng": -105.75686056798389,
+    "beds": {
+      "er": 1,
+      "icu": 2,
+      "maternity": 1,
+      "pediatric": 0
+    },
+    "totalBeds": 304,
+    "availableBeds": 4,
+    "waitTime": 39,
+    "specialties": [
+      "Emergency Services"
+    ],
+    "rating": 2,
+    "emergency_services": true,
+    "hospital_type": "Acute Care Hospitals",
+    "isOpen24Hours": true
+  },
+  {
+    "id": 49,
+    "name": "COREWELL HEALTH ZEELAND HOSPITAL",
+    "address": "8333 FELCH ST",
+    "city": "ZEELAND",
+    "state": "MI",
+    "zip": "49464",
+    "phone": "(616) 772-4644",
+    "lat": 28.744131544178003,
+    "lng": -85.20677447743066,
+    "beds": {
+      "er": 6,
+      "icu": 2,
+      "maternity": 5,
+      "pediatric": 5
+    },
+    "totalBeds": 234,
+    "availableBeds": 18,
+    "waitTime": 91,
+    "specialties": [
+      "Emergency Services"
+    ],
+    "rating": 0,
+    "emergency_services": true,
+    "hospital_type": "Acute Care Hospitals",
+    "isOpen24Hours": true
+  },
+  {
+    "id": 50,
+    "name": "NORTH MEMORIAL HEALTH HOSPITAL",
+    "address": "3300 OAKDALE NORTH",
+    "city": "ROBBINSDALE",
+    "state": "MN",
+    "zip": "55422",
+    "phone": "(763) 520-5200",
+    "lat": 36.79867399225688,
+    "lng": -94.41258326377516,
+    "beds": {
+      "er": 10,
+      "icu": 1,
+      "maternity": 5,
+      "pediatric": 5
+    },
+    "totalBeds": 114,
+    "availableBeds": 21,
+    "waitTime": 42,
+    "specialties": [
+      "Emergency Services"
+    ],
+    "rating": 2,
+    "emergency_services": true,
+    "hospital_type": "Acute Care Hospitals",
+    "isOpen24Hours": true
+  },
+  {
+    "id": 51,
+    "name": "ESSENTIA HEALTH ST MARY'S MEDICAL CENTER",
+    "address": "402 EAST SECOND STREET",
+    "city": "DULUTH",
+    "state": "MN",
+    "zip": "55805",
+    "phone": "(218) 786-3574",
+    "lat": 43.94975908379551,
+    "lng": -109.85567309293941,
+    "beds": {
+      "er": 1,
+      "icu": 0,
+      "maternity": 3,
+      "pediatric": 6
+    },
+    "totalBeds": 144,
+    "availableBeds": 10,
+    "waitTime": 22,
+    "specialties": [
+      "Emergency Services"
+    ],
+    "rating": 4,
+    "emergency_services": true,
+    "hospital_type": "Acute Care Hospitals",
+    "isOpen24Hours": true
+  },
+  {
+    "id": 52,
+    "name": "MERCY HOSPITAL JOPLIN",
+    "address": "100 MERCY WAY",
+    "city": "JOPLIN",
+    "state": "MO",
+    "zip": "64804",
+    "phone": "(417) 781-2727",
+    "lat": 44.47481721576017,
+    "lng": -84.23967408528529,
+    "beds": {
+      "er": 6,
+      "icu": 4,
+      "maternity": 6,
+      "pediatric": 0
+    },
+    "totalBeds": 318,
+    "availableBeds": 16,
+    "waitTime": 84,
+    "specialties": [
+      "Emergency Services"
+    ],
+    "rating": 1,
+    "emergency_services": true,
+    "hospital_type": "Acute Care Hospitals",
+    "isOpen24Hours": true
+  },
+  {
+    "id": 53,
+    "name": "SSM ST JOSEPH HEALTH CENTER",
+    "address": "300 1ST CAPITOL DR",
+    "city": "SAINT CHARLES",
+    "state": "MO",
+    "zip": "63301",
+    "phone": "(636) 947-5000",
+    "lat": 47.0545960460144,
+    "lng": -90.43081569627734,
+    "beds": {
+      "er": 10,
+      "icu": 3,
+      "maternity": 3,
+      "pediatric": 7
+    },
+    "totalBeds": 234,
+    "availableBeds": 23,
+    "waitTime": 30,
+    "specialties": [
+      "Emergency Services"
+    ],
+    "rating": 2,
+    "emergency_services": true,
+    "hospital_type": "Acute Care Hospitals",
+    "isOpen24Hours": true
+  },
+  {
+    "id": 54,
+    "name": "COMMONWEALTH HEALTH CENTER",
+    "address": "1 LOWER NAVY HILL ROAD (PO BOX 409CK)",
+    "city": "GARAPAN",
+    "state": "MP",
+    "zip": "96950",
+    "phone": "(670) 234-8950",
+    "lat": 36.588346981663236,
+    "lng": -111.55331088742602,
+    "beds": {
+      "er": 1,
+      "icu": 4,
+      "maternity": 4,
+      "pediatric": 0
+    },
+    "totalBeds": 309,
+    "availableBeds": 9,
+    "waitTime": 73,
+    "specialties": [
+      "Emergency Services"
+    ],
+    "rating": 0,
+    "emergency_services": true,
+    "hospital_type": "Acute Care Hospitals",
+    "isOpen24Hours": true
+  },
+  {
+    "id": 55,
+    "name": "UNIVERSITY OF MISSISSIPPI MED CENTER",
+    "address": "2500 N STATE ST",
+    "city": "JACKSON",
+    "state": "MS",
+    "zip": "39216",
+    "phone": "(601) 984-4100",
+    "lat": 42.083730293132895,
+    "lng": -111.92708189940001,
+    "beds": {
+      "er": 7,
+      "icu": 0,
+      "maternity": 4,
+      "pediatric": 2
+    },
+    "totalBeds": 163,
+    "availableBeds": 13,
+    "waitTime": 161,
+    "specialties": [
+      "Emergency Services"
+    ],
+    "rating": 2,
+    "emergency_services": true,
+    "hospital_type": "Acute Care Hospitals",
+    "isOpen24Hours": true
+  },
+  {
+    "id": 56,
+    "name": "TISHOMINGO HEALTH SERVICES INC",
+    "address": "1777 CURTIS DRIVE",
+    "city": "IUKA",
+    "state": "MS",
+    "zip": "38852",
+    "phone": "(662) 423-6051",
+    "lat": 35.906081879170145,
+    "lng": -112.03918930521273,
+    "beds": {
+      "er": 10,
+      "icu": 3,
+      "maternity": 0,
+      "pediatric": 8
+    },
+    "totalBeds": 204,
+    "availableBeds": 21,
+    "waitTime": 35,
+    "specialties": [
+      "Emergency Services"
+    ],
+    "rating": 5,
+    "emergency_services": true,
+    "hospital_type": "Acute Care Hospitals",
+    "isOpen24Hours": true
+  },
+  {
+    "id": 57,
+    "name": "ST PETERS HEALTH",
+    "address": "2475 BROADWAY",
+    "city": "HELENA",
+    "state": "MT",
+    "zip": "59601",
+    "phone": "(406) 442-2480",
+    "lat": 38.02513192410256,
+    "lng": -115.69616291168477,
+    "beds": {
+      "er": 2,
+      "icu": 2,
+      "maternity": 3,
+      "pediatric": 1
+    },
+    "totalBeds": 383,
+    "availableBeds": 8,
+    "waitTime": 34,
+    "specialties": [
+      "Emergency Services"
+    ],
+    "rating": 4,
+    "emergency_services": true,
+    "hospital_type": "Acute Care Hospitals",
+    "isOpen24Hours": true
+  },
+  {
+    "id": 58,
+    "name": "BILLINGS CLINIC",
+    "address": "2800 10TH AVE N",
+    "city": "BILLINGS",
+    "state": "MT",
+    "zip": "59101",
+    "phone": "(406) 657-4000",
+    "lat": 44.29821748766915,
+    "lng": -103.94333100928435,
+    "beds": {
+      "er": 1,
+      "icu": 2,
+      "maternity": 3,
+      "pediatric": 2
+    },
+    "totalBeds": 288,
+    "availableBeds": 8,
+    "waitTime": 147,
+    "specialties": [
+      "Emergency Services"
+    ],
+    "rating": 4,
+    "emergency_services": true,
+    "hospital_type": "Acute Care Hospitals",
+    "isOpen24Hours": true
+  },
+  {
+    "id": 59,
+    "name": "CAROLINAS MEDICAL CENTER-NORTHEAST",
+    "address": "920 CHURCH ST N",
+    "city": "CONCORD",
+    "state": "NC",
+    "zip": "28025",
+    "phone": "(704) 783-3000",
+    "lat": 47.29405614015586,
+    "lng": -105.51840276767625,
+    "beds": {
+      "er": 0,
+      "icu": 3,
+      "maternity": 0,
+      "pediatric": 2
+    },
+    "totalBeds": 109,
+    "availableBeds": 5,
+    "waitTime": 91,
+    "specialties": [
+      "Emergency Services"
+    ],
+    "rating": 3,
+    "emergency_services": true,
+    "hospital_type": "Acute Care Hospitals",
+    "isOpen24Hours": true
+  },
+  {
+    "id": 60,
+    "name": "MEMORIAL MISSION HOSPITAL AND ASHEVILLE SURGERY CE",
+    "address": "509 BILTMORE AVE",
+    "city": "ASHEVILLE",
+    "state": "NC",
+    "zip": "28801",
+    "phone": "(828) 213-1111",
+    "lat": 47.848236795147336,
+    "lng": -97.42149986723936,
+    "beds": {
+      "er": 9,
+      "icu": 5,
+      "maternity": 6,
+      "pediatric": 3
+    },
+    "totalBeds": 213,
+    "availableBeds": 23,
+    "waitTime": 35,
+    "specialties": [
+      "Emergency Services"
+    ],
+    "rating": 4,
+    "emergency_services": true,
+    "hospital_type": "Acute Care Hospitals",
+    "isOpen24Hours": true
+  },
+  {
+    "id": 61,
+    "name": "CHI ST ALEXIUS HEALTH",
+    "address": "900 E BROADWAY",
+    "city": "BISMARCK",
+    "state": "ND",
+    "zip": "58501",
+    "phone": "(701) 530-7000",
+    "lat": 47.91880634181615,
+    "lng": -85.9644622045262,
+    "beds": {
+      "er": 3,
+      "icu": 0,
+      "maternity": 4,
+      "pediatric": 0
+    },
+    "totalBeds": 164,
+    "availableBeds": 7,
+    "waitTime": 145,
+    "specialties": [
+      "Emergency Services"
+    ],
+    "rating": 2,
+    "emergency_services": true,
+    "hospital_type": "Acute Care Hospitals",
+    "isOpen24Hours": true
+  },
+  {
+    "id": 62,
+    "name": "TRINITY HOSPITALS",
+    "address": "407 3RD ST SE",
+    "city": "MINOT",
+    "state": "ND",
+    "zip": "58701",
+    "phone": "(701) 857-5000",
+    "lat": 28.318441092486825,
+    "lng": -80.75774689365777,
+    "beds": {
+      "er": 6,
+      "icu": 4,
+      "maternity": 5,
+      "pediatric": 7
+    },
+    "totalBeds": 204,
+    "availableBeds": 22,
+    "waitTime": 67,
+    "specialties": [
+      "Emergency Services"
+    ],
+    "rating": 3,
+    "emergency_services": true,
+    "hospital_type": "Acute Care Hospitals",
+    "isOpen24Hours": true
+  },
+  {
+    "id": 63,
+    "name": "BRYAN MEDICAL CENTER",
+    "address": "1600 SOUTH 48TH ST",
+    "city": "LINCOLN",
+    "state": "NE",
+    "zip": "68506",
+    "phone": "(402) 481-1111",
+    "lat": 40.91308839763671,
+    "lng": -99.02215026357442,
+    "beds": {
+      "er": 1,
+      "icu": 4,
+      "maternity": 4,
+      "pediatric": 0
+    },
+    "totalBeds": 383,
+    "availableBeds": 9,
+    "waitTime": 131,
+    "specialties": [
+      "Emergency Services"
+    ],
+    "rating": 3,
+    "emergency_services": true,
+    "hospital_type": "Acute Care Hospitals",
+    "isOpen24Hours": true
+  },
+  {
+    "id": 64,
+    "name": "CHI HEALTH GOOD SAMARITAN",
+    "address": "P O BOX 1990, 10 EAST 31ST ST",
+    "city": "KEARNEY",
+    "state": "NE",
+    "zip": "68848",
+    "phone": "(308) 865-7900",
+    "lat": 45.92976167265951,
+    "lng": -113.45231414122311,
+    "beds": {
+      "er": 1,
+      "icu": 3,
+      "maternity": 1,
+      "pediatric": 6
+    },
+    "totalBeds": 367,
+    "availableBeds": 11,
+    "waitTime": 44,
+    "specialties": [
+      "Emergency Services"
+    ],
+    "rating": 4,
+    "emergency_services": true,
+    "hospital_type": "Acute Care Hospitals",
+    "isOpen24Hours": true
+  },
+  {
+    "id": 65,
+    "name": "CONCORD HOSPITAL",
+    "address": "250 PLEASANT ST",
+    "city": "CONCORD",
+    "state": "NH",
+    "zip": "03301",
+    "phone": "(603) 225-2711",
+    "lat": 32.26848725292474,
+    "lng": -94.2283651620661,
+    "beds": {
+      "er": 9,
+      "icu": 1,
+      "maternity": 5,
+      "pediatric": 6
+    },
+    "totalBeds": 227,
+    "availableBeds": 21,
+    "waitTime": 51,
+    "specialties": [
+      "General Medicine"
+    ],
+    "rating": 3,
+    "emergency_services": false,
+    "hospital_type": "Acute Care Hospitals",
+    "isOpen24Hours": true
+  },
+  {
+    "id": 66,
+    "name": "MARY HITCHCOCK MEMORIAL HOSPITAL",
+    "address": "1 MEDICAL CENTER DRIVE",
+    "city": "LEBANON",
+    "state": "NH",
+    "zip": "03756",
+    "phone": "(603) 650-5000",
+    "lat": 34.2403612406387,
+    "lng": -115.76866037485797,
+    "beds": {
+      "er": 10,
+      "icu": 3,
+      "maternity": 2,
+      "pediatric": 4
+    },
+    "totalBeds": 182,
+    "availableBeds": 19,
+    "waitTime": 16,
+    "specialties": [
+      "Emergency Services"
+    ],
+    "rating": 4,
+    "emergency_services": true,
+    "hospital_type": "Acute Care Hospitals",
+    "isOpen24Hours": true
+  },
+  {
+    "id": 67,
+    "name": "HACKENSACK UNIVERSITY MEDICAL CENTER",
+    "address": "30 PROSPECT AVE",
+    "city": "HACKENSACK",
+    "state": "NJ",
+    "zip": "07601",
+    "phone": "(551) 996-2000",
+    "lat": 37.61875633281315,
+    "lng": -91.82868678395334,
+    "beds": {
+      "er": 2,
+      "icu": 5,
+      "maternity": 6,
+      "pediatric": 0
+    },
+    "totalBeds": 309,
+    "availableBeds": 13,
+    "waitTime": 102,
+    "specialties": [
+      "Emergency Services"
+    ],
+    "rating": 5,
+    "emergency_services": true,
+    "hospital_type": "Acute Care Hospitals",
+    "isOpen24Hours": true
+  },
+  {
+    "id": 68,
+    "name": "NEWARK BETH ISRAEL MEDICAL CENTER",
+    "address": "201 LYONS AVE",
+    "city": "NEWARK",
+    "state": "NJ",
+    "zip": "07112",
+    "phone": "(973) 926-7000",
+    "lat": 43.3034547276976,
+    "lng": -108.50584120986316,
+    "beds": {
+      "er": 0,
+      "icu": 4,
+      "maternity": 0,
+      "pediatric": 6
+    },
+    "totalBeds": 183,
+    "availableBeds": 10,
+    "waitTime": 113,
+    "specialties": [
+      "Emergency Services"
+    ],
+    "rating": 2,
+    "emergency_services": true,
+    "hospital_type": "Acute Care Hospitals",
+    "isOpen24Hours": true
+  },
+  {
+    "id": 69,
+    "name": "UNM HOSPITAL",
+    "address": "2211 LOMAS BOULEVARD NE",
+    "city": "ALBUQUERQUE",
+    "state": "NM",
+    "zip": "87106",
+    "phone": "(505) 272-2111",
+    "lat": 32.47730914591213,
+    "lng": -98.85632874760859,
+    "beds": {
+      "er": 6,
+      "icu": 1,
+      "maternity": 1,
+      "pediatric": 2
+    },
+    "totalBeds": 106,
+    "availableBeds": 10,
+    "waitTime": 131,
+    "specialties": [
+      "Emergency Services"
+    ],
+    "rating": 2,
+    "emergency_services": true,
+    "hospital_type": "Acute Care Hospitals",
+    "isOpen24Hours": true
+  },
+  {
+    "id": 70,
+    "name": "CHRISTUS ST VINCENT REGIONAL MEDICAL CENTER",
+    "address": "455 ST MICHAEL'S DRIVE",
+    "city": "SANTA FE",
+    "state": "NM",
+    "zip": "87505",
+    "phone": "(505) 913-3361",
+    "lat": 39.90302393052459,
+    "lng": -100.9676072389451,
+    "beds": {
+      "er": 6,
+      "icu": 2,
+      "maternity": 2,
+      "pediatric": 0
+    },
+    "totalBeds": 321,
+    "availableBeds": 10,
+    "waitTime": 127,
+    "specialties": [
+      "Emergency Services"
+    ],
+    "rating": 5,
+    "emergency_services": true,
+    "hospital_type": "Acute Care Hospitals",
+    "isOpen24Hours": true
+  },
+  {
+    "id": 71,
+    "name": "RENOWN REGIONAL MEDICAL CENTER",
+    "address": "1155 MILL STREET",
+    "city": "RENO",
+    "state": "NV",
+    "zip": "89502",
+    "phone": "(775) 982-4100",
+    "lat": 45.82987066974322,
+    "lng": -110.55230406293555,
+    "beds": {
+      "er": 6,
+      "icu": 2,
+      "maternity": 5,
+      "pediatric": 3
+    },
+    "totalBeds": 120,
+    "availableBeds": 16,
+    "waitTime": 148,
+    "specialties": [
+      "Emergency Services"
+    ],
+    "rating": 3,
+    "emergency_services": true,
+    "hospital_type": "Acute Care Hospitals",
+    "isOpen24Hours": true
+  },
+  {
+    "id": 72,
+    "name": "SUNRISE HOSPITAL AND MEDICAL CENTER",
+    "address": "3186 S MARYLAND PKWY",
+    "city": "LAS VEGAS",
+    "state": "NV",
+    "zip": "89109",
+    "phone": "(702) 731-8000",
+    "lat": 28.8091024815646,
+    "lng": -97.33476788992914,
+    "beds": {
+      "er": 5,
+      "icu": 2,
+      "maternity": 2,
+      "pediatric": 2
+    },
+    "totalBeds": 378,
+    "availableBeds": 11,
+    "waitTime": 161,
+    "specialties": [
+      "Emergency Services"
+    ],
+    "rating": 2,
+    "emergency_services": true,
+    "hospital_type": "Acute Care Hospitals",
+    "isOpen24Hours": true
+  },
+  {
+    "id": 73,
+    "name": "KALEIDA HEALTH",
+    "address": "100 HIGH STREET",
+    "city": "BUFFALO",
+    "state": "NY",
+    "zip": "14210",
+    "phone": "(716) 859-8620",
+    "lat": 47.556961737555454,
+    "lng": -114.38099278891846,
+    "beds": {
+      "er": 4,
+      "icu": 2,
+      "maternity": 4,
+      "pediatric": 5
+    },
+    "totalBeds": 348,
+    "availableBeds": 15,
+    "waitTime": 98,
+    "specialties": [
+      "Emergency Services"
+    ],
+    "rating": 3,
+    "emergency_services": true,
+    "hospital_type": "Acute Care Hospitals",
+    "isOpen24Hours": true
+  },
+  {
+    "id": 74,
+    "name": "ST JOSEPH'S MEDICAL CENTER",
+    "address": "127 SOUTH BROADWAY",
+    "city": "YONKERS",
+    "state": "NY",
+    "zip": "10701",
+    "phone": "(914) 378-7000",
+    "lat": 44.22030680727006,
+    "lng": -81.30752253802063,
+    "beds": {
+      "er": 1,
+      "icu": 1,
+      "maternity": 6,
+      "pediatric": 3
+    },
+    "totalBeds": 134,
+    "availableBeds": 11,
+    "waitTime": 144,
+    "specialties": [
+      "Emergency Services"
+    ],
+    "rating": 1,
+    "emergency_services": true,
+    "hospital_type": "Acute Care Hospitals",
+    "isOpen24Hours": true
+  },
+  {
+    "id": 75,
+    "name": "MERCY HEALTH-ANDERSON HOSPITAL",
+    "address": "7500 STATE ROAD",
+    "city": "CINCINNATI",
+    "state": "OH",
+    "zip": "45255",
+    "phone": "(513) 624-4500",
+    "lat": 38.25363658196524,
+    "lng": -94.52600810276842,
+    "beds": {
+      "er": 10,
+      "icu": 3,
+      "maternity": 2,
+      "pediatric": 4
+    },
+    "totalBeds": 164,
+    "availableBeds": 19,
+    "waitTime": 167,
+    "specialties": [
+      "Emergency Services"
+    ],
+    "rating": 2,
+    "emergency_services": true,
+    "hospital_type": "Acute Care Hospitals",
+    "isOpen24Hours": true
+  },
+  {
+    "id": 76,
+    "name": "UNIVERSITY HOSPITALS SAMARITAN MEDICAL CENTER",
+    "address": "1025 CENTER ST",
+    "city": "ASHLAND",
+    "state": "OH",
+    "zip": "44805",
+    "phone": "(419) 289-0491",
+    "lat": 33.344467133476016,
+    "lng": -83.24407278902925,
+    "beds": {
+      "er": 10,
+      "icu": 1,
+      "maternity": 6,
+      "pediatric": 8
+    },
+    "totalBeds": 108,
+    "availableBeds": 25,
+    "waitTime": 138,
+    "specialties": [
+      "General Medicine"
+    ],
+    "rating": 3,
+    "emergency_services": false,
+    "hospital_type": "Acute Care Hospitals",
+    "isOpen24Hours": true
+  },
+  {
+    "id": 77,
+    "name": "HILLCREST MEDICAL CENTER",
+    "address": "1120 SOUTH UTICA AVENUE",
+    "city": "TULSA",
+    "state": "OK",
+    "zip": "74104",
+    "phone": "(918) 579-1000",
+    "lat": 47.85562262404656,
+    "lng": -95.2969174668044,
+    "beds": {
+      "er": 0,
+      "icu": 2,
+      "maternity": 2,
+      "pediatric": 0
+    },
+    "totalBeds": 282,
+    "availableBeds": 4,
+    "waitTime": 100,
+    "specialties": [
+      "Emergency Services"
+    ],
+    "rating": 3,
+    "emergency_services": true,
+    "hospital_type": "Acute Care Hospitals",
+    "isOpen24Hours": true
+  },
+  {
+    "id": 78,
+    "name": "ALLIANCEHEALTH WOODWARD",
+    "address": "900 17TH STREET",
+    "city": "WOODWARD",
+    "state": "OK",
+    "zip": "73801",
+    "phone": "(580) 256-5511",
+    "lat": 34.411745467034905,
+    "lng": -103.76595311180117,
+    "beds": {
+      "er": 7,
+      "icu": 1,
+      "maternity": 3,
+      "pediatric": 4
+    },
+    "totalBeds": 275,
+    "availableBeds": 15,
+    "waitTime": 41,
+    "specialties": [
+      "Emergency Services"
+    ],
+    "rating": 2,
+    "emergency_services": true,
+    "hospital_type": "Acute Care Hospitals",
+    "isOpen24Hours": true
+  },
+  {
+    "id": 79,
+    "name": "MID-COLUMBIA MEDICAL CENTER",
+    "address": "1700 E 19TH STREET",
+    "city": "THE DALLES",
+    "state": "OR",
+    "zip": "97058",
+    "phone": "(541) 296-1111",
+    "lat": 34.17137185671268,
+    "lng": -96.63036301560695,
+    "beds": {
+      "er": 5,
+      "icu": 3,
+      "maternity": 5,
+      "pediatric": 4
+    },
+    "totalBeds": 277,
+    "availableBeds": 17,
+    "waitTime": 24,
+    "specialties": [
+      "Emergency Services"
+    ],
+    "rating": 3,
+    "emergency_services": true,
+    "hospital_type": "Acute Care Hospitals",
+    "isOpen24Hours": true
+  },
+  {
+    "id": 80,
+    "name": "ASANTE THREE RIVERS MEDICAL CENTER",
+    "address": "500 SW RAMSEY AVENUE",
+    "city": "GRANTS PASS",
+    "state": "OR",
+    "zip": "97527",
+    "phone": "(541) 472-7000",
+    "lat": 44.793666765013455,
+    "lng": -99.64064289630392,
+    "beds": {
+      "er": 2,
+      "icu": 5,
+      "maternity": 2,
+      "pediatric": 1
+    },
+    "totalBeds": 156,
+    "availableBeds": 10,
+    "waitTime": 45,
+    "specialties": [
+      "Emergency Services"
+    ],
+    "rating": 5,
+    "emergency_services": true,
+    "hospital_type": "Acute Care Hospitals",
+    "isOpen24Hours": true
+  },
+  {
+    "id": 81,
+    "name": "GEISINGER-COMMUNITY MEDICAL CENTER",
+    "address": "1822 MULBERRY STREET",
+    "city": "SCRANTON",
+    "state": "PA",
+    "zip": "18510",
+    "phone": "(570) 703-8000",
+    "lat": 39.43076855774008,
+    "lng": -79.12090272261865,
+    "beds": {
+      "er": 6,
+      "icu": 4,
+      "maternity": 3,
+      "pediatric": 3
+    },
+    "totalBeds": 203,
+    "availableBeds": 16,
+    "waitTime": 131,
+    "specialties": [
+      "Emergency Services"
+    ],
+    "rating": 3,
+    "emergency_services": true,
+    "hospital_type": "Acute Care Hospitals",
+    "isOpen24Hours": true
+  },
+  {
+    "id": 82,
+    "name": "UPMC MCKEESPORT HOSPITAL",
+    "address": "1500 FIFTH AVENUE",
+    "city": "MC KEESPORT",
+    "state": "PA",
+    "zip": "15132",
+    "phone": "(412) 664-2000",
+    "lat": 38.175531300799314,
+    "lng": -89.01912715450996,
+    "beds": {
+      "er": 1,
+      "icu": 1,
+      "maternity": 6,
+      "pediatric": 5
+    },
+    "totalBeds": 224,
+    "availableBeds": 13,
+    "waitTime": 77,
+    "specialties": [
+      "Emergency Services"
+    ],
+    "rating": 3,
+    "emergency_services": true,
+    "hospital_type": "Acute Care Hospitals",
+    "isOpen24Hours": true
+  },
+  {
+    "id": 83,
+    "name": "PRESBYTERIAN COMMUNITY HOSPITAL",
+    "address": "1451 ASHFORD AVENUE, EL CONDADO",
+    "city": "SAN JUAN",
+    "state": "PR",
+    "zip": "00907",
+    "phone": "(787) 721-2160",
+    "lat": 41.6677393619842,
+    "lng": -93.22466829637528,
+    "beds": {
+      "er": 6,
+      "icu": 5,
+      "maternity": 2,
+      "pediatric": 7
+    },
+    "totalBeds": 271,
+    "availableBeds": 20,
+    "waitTime": 145,
+    "specialties": [
+      "Emergency Services"
+    ],
+    "rating": 0,
+    "emergency_services": true,
+    "hospital_type": "Acute Care Hospitals",
+    "isOpen24Hours": true
+  },
+  {
+    "id": 84,
+    "name": "HOSPITAL METROPOLITANO DR PILA",
+    "address": "2435  BOULEVARD LUIS A FERRE",
+    "city": "PONCE",
+    "state": "PR",
+    "zip": "00717",
+    "phone": "(787) 848-6910",
+    "lat": 30.278910247245697,
+    "lng": -90.04496230472,
+    "beds": {
+      "er": 9,
+      "icu": 4,
+      "maternity": 4,
+      "pediatric": 5
+    },
+    "totalBeds": 397,
+    "availableBeds": 22,
+    "waitTime": 124,
+    "specialties": [
+      "Emergency Services"
+    ],
+    "rating": 0,
+    "emergency_services": true,
+    "hospital_type": "Acute Care Hospitals",
+    "isOpen24Hours": true
+  },
+  {
+    "id": 85,
+    "name": "ROGER WILLIAMS MEDICAL CENTER",
+    "address": "825 CHALKSTONE AVENUE",
+    "city": "PROVIDENCE",
+    "state": "RI",
+    "zip": "02908",
+    "phone": "(401) 456-2025",
+    "lat": 36.34120087967095,
+    "lng": -89.2349723189395,
+    "beds": {
+      "er": 8,
+      "icu": 4,
+      "maternity": 0,
+      "pediatric": 6
+    },
+    "totalBeds": 192,
+    "availableBeds": 18,
+    "waitTime": 86,
+    "specialties": [
+      "Emergency Services"
+    ],
+    "rating": 3,
+    "emergency_services": true,
+    "hospital_type": "Acute Care Hospitals",
+    "isOpen24Hours": true
+  },
+  {
+    "id": 86,
+    "name": "OUR LADY OF FATIMA HOSPITAL",
+    "address": "200 HIGH SERVICE AVENUE",
+    "city": "NORTH PROVIDENCE",
+    "state": "RI",
+    "zip": "02904",
+    "phone": "(401) 456-3000",
+    "lat": 34.06450265629164,
+    "lng": -87.48030933259179,
+    "beds": {
+      "er": 8,
+      "icu": 4,
+      "maternity": 4,
+      "pediatric": 4
+    },
+    "totalBeds": 319,
+    "availableBeds": 20,
+    "waitTime": 68,
+    "specialties": [
+      "Emergency Services"
+    ],
+    "rating": 4,
+    "emergency_services": true,
+    "hospital_type": "Acute Care Hospitals",
+    "isOpen24Hours": true
+  },
+  {
+    "id": 87,
+    "name": "PIEDMONT MEDICAL CENTER",
+    "address": "1731 FRANK GASTON BLVD",
+    "city": "ROCK HILL",
+    "state": "SC",
+    "zip": "29732",
+    "phone": "(803) 329-1234",
+    "lat": 47.619353261403816,
+    "lng": -85.44827513862046,
+    "beds": {
+      "er": 2,
+      "icu": 5,
+      "maternity": 6,
+      "pediatric": 4
+    },
+    "totalBeds": 200,
+    "availableBeds": 17,
+    "waitTime": 47,
+    "specialties": [
+      "Emergency Services"
+    ],
+    "rating": 2,
+    "emergency_services": true,
+    "hospital_type": "Acute Care Hospitals",
+    "isOpen24Hours": true
+  },
+  {
+    "id": 88,
+    "name": "MUSC MEDICAL CENTER",
+    "address": "169 ASHLEY AVE",
+    "city": "CHARLESTON",
+    "state": "SC",
+    "zip": "29425",
+    "phone": "(843) 792-2300",
+    "lat": 45.8567492232187,
+    "lng": -107.38322944437108,
+    "beds": {
+      "er": 4,
+      "icu": 3,
+      "maternity": 5,
+      "pediatric": 4
+    },
+    "totalBeds": 265,
+    "availableBeds": 16,
+    "waitTime": 132,
+    "specialties": [
+      "Emergency Services"
+    ],
+    "rating": 3,
+    "emergency_services": true,
+    "hospital_type": "Acute Care Hospitals",
+    "isOpen24Hours": true
+  },
+  {
+    "id": 89,
+    "name": "PRAIRIE LAKES HEALTHCARE SYSTEM, INC",
+    "address": "401 9TH AVENUE NW  POST OFFICE BOX 1210",
+    "city": "WATERTOWN",
+    "state": "SD",
+    "zip": "57201",
+    "phone": "(605) 882-7000",
+    "lat": 43.01557536338838,
+    "lng": -104.75359791526103,
+    "beds": {
+      "er": 6,
+      "icu": 0,
+      "maternity": 4,
+      "pediatric": 3
+    },
+    "totalBeds": 194,
+    "availableBeds": 13,
+    "waitTime": 82,
+    "specialties": [
+      "Emergency Services"
+    ],
+    "rating": 4,
+    "emergency_services": true,
+    "hospital_type": "Acute Care Hospitals",
+    "isOpen24Hours": true
+  },
+  {
+    "id": 90,
+    "name": "BROOKINGS HEALTH SYSTEM",
+    "address": "300 22ND AVE",
+    "city": "BROOKINGS",
+    "state": "SD",
+    "zip": "57006",
+    "phone": "(605) 696-9000",
+    "lat": 42.127286191569645,
+    "lng": -107.5933329737336,
+    "beds": {
+      "er": 9,
+      "icu": 2,
+      "maternity": 2,
+      "pediatric": 5
+    },
+    "totalBeds": 283,
+    "availableBeds": 18,
+    "waitTime": 112,
+    "specialties": [
+      "Emergency Services"
+    ],
+    "rating": 4,
+    "emergency_services": true,
+    "hospital_type": "Acute Care Hospitals",
+    "isOpen24Hours": true
+  },
+  {
+    "id": 91,
+    "name": "JACKSON-MADISON COUNTY GENERAL HOSPITAL",
+    "address": "620 SKYLINE DRIVE",
+    "city": "JACKSON",
+    "state": "TN",
+    "zip": "38301",
+    "phone": "(731) 541-5000",
+    "lat": 29.806221382316416,
+    "lng": -83.17975577062319,
+    "beds": {
+      "er": 3,
+      "icu": 4,
+      "maternity": 1,
+      "pediatric": 0
+    },
+    "totalBeds": 357,
+    "availableBeds": 8,
+    "waitTime": 53,
+    "specialties": [
+      "Emergency Services"
+    ],
+    "rating": 3,
+    "emergency_services": true,
+    "hospital_type": "Acute Care Hospitals",
+    "isOpen24Hours": true
+  },
+  {
+    "id": 92,
+    "name": "HIGHPOINT HEALTH-SUMNER WITH ASCENSION SAINT THOMA",
+    "address": "555 HARTSVILLE PIKE",
+    "city": "GALLATIN",
+    "state": "TN",
+    "zip": "37066",
+    "phone": "(615) 328-8888",
+    "lat": 28.52089251549062,
+    "lng": -108.3394965811417,
+    "beds": {
+      "er": 0,
+      "icu": 4,
+      "maternity": 5,
+      "pediatric": 2
+    },
+    "totalBeds": 391,
+    "availableBeds": 11,
+    "waitTime": 160,
+    "specialties": [
+      "Emergency Services"
+    ],
+    "rating": 2,
+    "emergency_services": true,
+    "hospital_type": "Acute Care Hospitals",
+    "isOpen24Hours": true
+  },
+  {
+    "id": 93,
+    "name": "THE HOSPITALS OF PROVIDENCE - MEMORIAL CAMPUS",
+    "address": "2001 N OREGON ST",
+    "city": "EL PASO",
+    "state": "TX",
+    "zip": "79902",
+    "phone": "(915) 577-6011",
+    "lat": 38.0555833830322,
+    "lng": -95.13458912817381,
+    "beds": {
+      "er": 8,
+      "icu": 0,
+      "maternity": 5,
+      "pediatric": 6
+    },
+    "totalBeds": 314,
+    "availableBeds": 19,
+    "waitTime": 145,
+    "specialties": [
+      "Emergency Services"
+    ],
+    "rating": 2,
+    "emergency_services": true,
+    "hospital_type": "Acute Care Hospitals",
+    "isOpen24Hours": true
+  },
+  {
+    "id": 94,
+    "name": "PETERSON REGIONAL MEDICAL CENTER",
+    "address": "551 HILL COUNTRY DRIVE",
+    "city": "KERRVILLE",
+    "state": "TX",
+    "zip": "78028",
+    "phone": "(830) 896-4200",
+    "lat": 31.869972910410638,
+    "lng": -95.15950204921032,
+    "beds": {
+      "er": 8,
+      "icu": 4,
+      "maternity": 1,
+      "pediatric": 4
+    },
+    "totalBeds": 103,
+    "availableBeds": 17,
+    "waitTime": 113,
+    "specialties": [
+      "Emergency Services"
+    ],
+    "rating": 4,
+    "emergency_services": true,
+    "hospital_type": "Acute Care Hospitals",
+    "isOpen24Hours": true
+  },
+  {
+    "id": 95,
+    "name": "INTERMOUNTAIN HEALTH UTAH VALLEY HOSPITAL",
+    "address": "1034 NORTH 500 WEST",
+    "city": "PROVO",
+    "state": "UT",
+    "zip": "84604",
+    "phone": "(801) 373-7850",
+    "lat": 43.46541276013916,
+    "lng": -116.8167393167703,
+    "beds": {
+      "er": 6,
+      "icu": 1,
+      "maternity": 6,
+      "pediatric": 5
+    },
+    "totalBeds": 193,
+    "availableBeds": 18,
+    "waitTime": 33,
+    "specialties": [
+      "Emergency Services"
+    ],
+    "rating": 5,
+    "emergency_services": true,
+    "hospital_type": "Acute Care Hospitals",
+    "isOpen24Hours": true
+  },
+  {
+    "id": 96,
+    "name": "HOLY CROSS HOSPITAL - SALT LAKE",
+    "address": "1050 EAST SOUTH TEMPLE",
+    "city": "SALT LAKE CITY",
+    "state": "UT",
+    "zip": "84102",
+    "phone": "(801) 350-4111",
+    "lat": 28.379790205557697,
+    "lng": -91.8492387557314,
+    "beds": {
+      "er": 9,
+      "icu": 3,
+      "maternity": 1,
+      "pediatric": 3
+    },
+    "totalBeds": 164,
+    "availableBeds": 16,
+    "waitTime": 45,
+    "specialties": [
+      "Emergency Services"
+    ],
+    "rating": 2,
+    "emergency_services": true,
+    "hospital_type": "Acute Care Hospitals",
+    "isOpen24Hours": true
+  },
+  {
+    "id": 97,
+    "name": "RUSSELL COUNTY HOSPITAL",
+    "address": "58 CARROLL STREET",
+    "city": "LEBANON",
+    "state": "VA",
+    "zip": "24266",
+    "phone": "(276) 883-8000",
+    "lat": 47.05199657028547,
+    "lng": -88.0565965452609,
+    "beds": {
+      "er": 5,
+      "icu": 1,
+      "maternity": 5,
+      "pediatric": 7
+    },
+    "totalBeds": 312,
+    "availableBeds": 18,
+    "waitTime": 179,
+    "specialties": [
+      "Emergency Services"
+    ],
+    "rating": 3,
+    "emergency_services": true,
+    "hospital_type": "Acute Care Hospitals",
+    "isOpen24Hours": true
+  },
+  {
+    "id": 98,
+    "name": "SENTARA RMH MEDICAL CENTER",
+    "address": "2010 HEALTH CAMPUS DRIVE",
+    "city": "HARRISONBURG",
+    "state": "VA",
+    "zip": "22801",
+    "phone": "(540) 689-1000",
+    "lat": 40.67444210469104,
+    "lng": -86.80562544645028,
+    "beds": {
+      "er": 4,
+      "icu": 4,
+      "maternity": 6,
+      "pediatric": 2
+    },
+    "totalBeds": 198,
+    "availableBeds": 16,
+    "waitTime": 68,
+    "specialties": [
+      "Emergency Services"
+    ],
+    "rating": 4,
+    "emergency_services": true,
+    "hospital_type": "Acute Care Hospitals",
+    "isOpen24Hours": true
+  },
+  {
+    "id": 99,
+    "name": "ROY LESTER SCHNEIDER HOSPITAL,THE",
+    "address": "9048 SUGAR ESTATE",
+    "city": "ST THOMAS",
+    "state": "VI",
+    "zip": "00801",
+    "phone": "(809) 776-8311",
+    "lat": 34.47683261074942,
+    "lng": -90.09824005575236,
+    "beds": {
+      "er": 0,
+      "icu": 1,
+      "maternity": 3,
+      "pediatric": 1
+    },
+    "totalBeds": 123,
+    "availableBeds": 5,
+    "waitTime": 25,
+    "specialties": [
+      "Emergency Services"
+    ],
+    "rating": 1,
+    "emergency_services": true,
+    "hospital_type": "Acute Care Hospitals",
+    "isOpen24Hours": true
+  },
+  {
+    "id": 100,
+    "name": "GOV JUAN F LUIS HOSPITAL & MEDICAL CTR",
+    "address": "#4007 EST DIAMOND RUBY, CHRISTIANSTED",
+    "city": "ST CROIX",
+    "state": "VI",
+    "zip": "00820",
+    "phone": "(340) 778-6311",
+    "lat": 38.62695543565604,
+    "lng": -93.64146536688538,
+    "beds": {
+      "er": 10,
+      "icu": 1,
+      "maternity": 4,
+      "pediatric": 0
+    },
+    "totalBeds": 232,
+    "availableBeds": 15,
+    "waitTime": 145,
+    "specialties": [
+      "Emergency Services"
+    ],
+    "rating": 1,
     "emergency_services": true,
     "hospital_type": "Acute Care Hospitals",
     "isOpen24Hours": true
